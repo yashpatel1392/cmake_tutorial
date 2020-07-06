@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yash/cmake_tutorial/MathFunctions/MathFunctions.h
+
+/home/yash/cmake_tutorial/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/yash/cmake_tutorial/MathFunctions/MathFunctions.h
+
